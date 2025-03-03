@@ -21,7 +21,7 @@ data analyst.csv: Raw scraped data for Data Analyst jobs.
 
 data scientist.csv: Raw scraped data for Data Scientist jobs.
 
-# final_data.xlsx: Cleaned and processed data.
+final_data.xlsx: Cleaned and processed data.
 
 analysis of data analyst and data scientist in India.pbix: Power BI dashboard for insights.
 
