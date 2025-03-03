@@ -11,32 +11,16 @@ This project analyzes the job market for Data Analysts and Data Scientists in In
 
 # Project Workflow
 
-Libraries Used
-
-The following libraries were used in the project:
-
-Pandas: For data manipulation and cleaning.
-
-NumPy: For numerical operations.
-
-Matplotlib: For data visualization.
-
-XlsxWriter: For saving cleaned data into Excel format.
-
+The following libraries were used in the project:Pandas: For data manipulation and cleaning.NumPy: For numerical operations.Matplotlib: For data visualization.XlsxWriter: For saving cleaned data into Excel format.
 Data Cleaning: Removing duplicates, handling missing values, and structuring data.
-
 Data Analysis: Exploring salary distributions, skills, and location trends.
-
 Visualization: Presenting key findings through dashboards.
 
 # Files and Directories
 
 data_cleaning.py: Cleans and preprocesses the scraped job data.
-
 data analyst.csv: Raw scraped data for Data Analyst jobs.
-
 data scientist.csv: Raw scraped data for Data Scientist jobs.
-
 final_data.xlsx: Cleaned and processed data.
 
 analysis of data analyst and data scientist in India.pbix: Power BI dashboard for insights.
@@ -44,10 +28,12 @@ analysis of data analyst and data scientist in India.pbix: Power BI dashboard fo
 # Key Insights
 
 Data Analysts and Data Scientists require overlapping but distinct skill sets.
-
 Salary varies based on experience, location, and required technical skills.
-
 Python, SQL, and Power BI are common requirements.
+
+
+![Screenshot 2025-03-03 092932](https://github.com/user-attachments/assets/ea321136-768a-4f35-b8d7-6803086bcb71)
+
 
 # Conclusion
 
